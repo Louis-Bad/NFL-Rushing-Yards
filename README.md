@@ -10,7 +10,7 @@ We also suggest if you need direction to check out the `Project Checklist` markd
 Both this boiler plate and the checklist were built simultaneously, so feel free to use them in tandem. 
 
 > Eventually you will delete everything above this line. This is just here to introduce the boilerplate. We also suggest deleting any other indentations like this. There are more there to get you thinking about the 'point' of the section. 
-# The Title of Your Project Goes Here 
+# Project Title
 
 One sentence summary goes here saying what you did.
 A second sentence goes here says why it matters.
