@@ -9,13 +9,21 @@ One sentence summary goes here saying what you did.
 A second sentence goes here says why it matters.
 A last sentence links to any productionized web dashboard here.
 
-You can also link to 
-* [Your Email]()
-* [Your Linked In]()
-* [Your Twitter?]()
+You can find me via: 
+* [My Email](Louisbademosi@gamil.com)
+* [Linked In](https://www.linkedin.com/in/louis-bademosi-1bb964195/)
+* [My Articles](https://medium.com/@louisbademosi_20360)
 
-> We suggest that people follow a "Facebook Page" approach to writing up their README. This means that the most important information is at the top (your name, point of project, contact info) and then as you go down the document you get less and less relevant information. Remember that you are NOT writing a detective story and need to find a way to present as much information as quickly as possible to the person that will be looking at this for 45 seconds tops. Of course others might look for longer, but the UX/UI of your REAMDE should be done with the 'github skimmer' in mind.
 
+## Table of contents
+1. [Executive Summary](#exec_summary)
+2. [The Data](#the_data)
+3. [Exploratory Analysis](#explore_analysis)
+4. [The Model](#model)
+5. [Future Work](#future_work)
+
+
+<a name="exec_summary"></a>
 ### Executive Summary
 
 Start with one or two sentences here that contextualises what your project matters here.
@@ -39,20 +47,17 @@ The goal of this project was to create a `regression/classification` model that 
 > 3. You show off your analystical and modeling chops.
 > 4. You are able to communicate technical things you do.
 
-### More Information
+<a name="the_data"></a>
+### The Data
+-  lead with visualisations not writing
 
-Below your Executive Summary, you can document whatever you feel would be of interest to a future employer.
-Here I would especially suggest diving a bit deeper into your methodology and including images that you are proud of from the project. 
-Remember, that people will probably judge your github project page within 45 seconds tops, you want it to look as clean as possible. 
+<a name="explore_analysis"></a>
+### Exploratory Analysis
+-  lead with visualisations not writing
 
-Write documentation that looks like someone you would want to work with.
+<a name="model"></a>
+### The Model
+-  lead with visualisations not writing
 
-### Show Off Your Data Viz
-
-![Everyone Likes a Pairplot](figures/seaborn-pairplot-3.png)
-
-> Image taken from `seaborn` [documentation](https://seaborn.pydata.org/generated/seaborn.pairplot.html)
-
-**DO NOT PUT THE GOOD BITS OF YOUR PROJECT BURRIED AWAY AT THE BOTTOM OF YOUR README, YOU ARE NOT WRITING A DETECTIVE NOVEL**
-
-
+<a name="future_work"></a>
+### Future Work
