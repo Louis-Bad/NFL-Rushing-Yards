@@ -1,7 +1,7 @@
 # NFL Big Data Bowl
 
-<img src="references/images/data_bowl_title.webp", width=400>
-> [*source: NFL Operations*](https://operations.nfl.com/the-game/big-data-bowl/)
+<img src="references/images/data_bowl_title.webp" width=400>
+> [*image source: NFL Operations*](https://operations.nfl.com/the-game/big-data-bowl/)
 
 One sentence summary goes here saying what you did.
 A second sentence goes here says why it matters.
