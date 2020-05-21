@@ -1,6 +1,7 @@
 # NFL Big Data Bowl
-
-<img src="references/images/data_bowl_title.webp" width=400 align="center"/>
+<p align="center">
+<img height=500 width=800 src="references/images/data_bowl_title.webp" >
+</p>
 
 > [*image source: NFL Operations*](https://operations.nfl.com/the-game/big-data-bowl/)
 
