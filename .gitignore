@@ -1,6 +1,3 @@
-#Ignoring Mac OS files
-
-
 #Ignoring pynb_checkpoints
 .ipynb_checkpoints
 
