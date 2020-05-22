@@ -3,3 +3,6 @@
 
 #Ignoring pynb_checkpoints
 .ipynb_checkpoints
+
+#Ignoring data files
+data/
