@@ -1,5 +1,5 @@
-#Ignoring pynb_checkpoints
+#Ignoring ipynb_checkpoints
 .ipynb_checkpoints
 
-#Ignoring data files
+#Ignoring the project data files
 data/
