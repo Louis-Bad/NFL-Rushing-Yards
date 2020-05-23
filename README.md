@@ -11,7 +11,7 @@ This project contains the analysis of the aspects that make a run play successfu
 The ticket sales, corporate sposnors and concessions can contribute to over 50% of a teams annual revenue and a teams fan base is a large driver of these profitable transasctions. A winning team can attract new fans and appease exiting ones; and fans can create huge profit margins. This project aims to assist NFL teams in their play calling effectiveness and increase their odds of winning. <br>
 [Add a link to the pesentation (an online/google docs or something version of it)]
 
-
+<br> <br>
 You can find me via: 
 - [My Email](Louisbademosi@gamil.com)
 - [My LinkedIn](https://www.linkedin.com/in/louis-bademosi-1bb964195/)
