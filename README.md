@@ -1,22 +1,23 @@
 # NFL Rushing Yards
+
 <p align="center">
 <img height=500 width=800 src="references/images/running_back.jpg">
 </p>
 
-> [*image source: Picserio*](https://picserio.com/american-football-player-wallpaper/4586461.html)
+> [*image source: Picserio*](https://picserio.com/american-football-player-wallpaper/4586461.html) <br><br>
 
 
 This project contains the analysis of the aspects that make a run play successful, and a model that can predict the yards that will be gained on the next run play.  <br>
 The ticket sales, corporate sposnors and concessions can contribute to over 50% of a teams annual revenue and a teams fan base is a large driver of these profitable transasctions. A winning team can attract new fans and appease exiting ones; and fans can create huge profit margins. This project aims to assist NFL teams in their play calling effectiveness and increase their odds of winning. <br>
 [Add a link to the pesentation (an online/google docs or something version of it)]
 
-
+<br>
 You can find me via: 
 - [My Email](Louisbademosi@gamil.com)
 - [My LinkedIn](https://www.linkedin.com/in/louis-bademosi-1bb964195/)
 - [My Articles](https://medium.com/@louisbademosi_20360)
 
-
+<br><br>
 ## Table of contents
 1. [Executive Summary](#exec_summary)
 2. [The Data](#the_data)
@@ -46,7 +47,7 @@ You can find me via:
     To win you need to score, to score you need to get the ball into the end zone, and to get the ball into the end zone you need to move the ball farther up the field. With a run play being one out of the two options an offence has to try and move closer to the end zone, optimising this aspect of their game could lead to considerable improvements in a teams win percentage. In an [article](https://www.nfl.com/news/running-the-football-still-works-plus-the-amari-cooper-effect-0ap3000000996948) by the renowned NFL analyst, former player and scout, Bucky Brooks states that: <br>
     *“From Weeks 11-13, teams that ranked in the top half of the NFL in terms of run-play percentage posted a combined record of 32-13 (71.1 winning percentage). On the flip side, teams that ranked in the bottom half of the league in this category logged a combined mark of 12-31 (27.9)”* <br>
 
-    In this project I have provided insightful analysis into the aspects of a successful run game and designed a model that will predict the yards gained on the next run play. The implementation of such a model is expected to improve the play calling efficiency of an offensive team and as a result lead to an increased potential in profits. 
+    In this project I have provided insightful analysis into the aspects of a successful run game and designed a model that will predict the yards gained on the next run play. The implementation of such a model is expected to improve the play calling efficiency of an offensive team and as a result lead to an increased win percentage. 
 
 > For more literature on this see: <br>
 Business Opportunities' - [It’s True: NFL Teams Really Are Franchises](https://www.business-opportunities.biz/2013/10/20/nfl-teams-are-franchises-too/) <br>
