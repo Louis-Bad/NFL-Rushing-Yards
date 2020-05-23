@@ -1,6 +1,6 @@
 # NFL Rushing Yards
 <p align="center">
-<img height=400 width=800 src="references/images/running_back.jpg">
+<img height=500 width=800 src="references/images/running_back.jpg">
 </p>
 
 > [*image source: Picserio*](https://picserio.com/american-football-player-wallpaper/4586461.html)
