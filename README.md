@@ -7,12 +7,13 @@
 > [*image source: Picserio*](https://picserio.com/american-football-player-wallpaper/4586461.html) 
 
 <br>
+
 This project contains the analysis of the aspects that make a run play successful, and a model that can predict the yards that will be gained on the next run play. All of the data used can be found [here](https://www.kaggle.com/c/nfl-big-data-bowl-2020/overview) <br>
 The ticket sales, corporate sposnors and concessions can contribute to over ***50%*** of a teams annual revenue and a teams fan base is a large driver of these profitable transasctions. A winning team can attract new fans and appease exiting ones; and more fans can create larger profit margins. This project aims to assist NFL teams in their play calling effectiveness and increase their odds of winning. <br>
 [Add a link to the pesentation (online/google docs)]()
 
 <br> <br>
-You can find me on*: 
+You can find me on: 
 - [My Email](Louisbademosi@gamil.com)
 - [My LinkedIn](https://www.linkedin.com/in/louis-bademosi-1bb964195/)
 - [My Articles](https://medium.com/@louisbademosi_20360)
@@ -59,7 +60,7 @@ The NFL's - [A Beginner's Guide to American Football](https://www.youtube.com/wa
 <a name="the_data"></a>
 ## The Data
 <p align="center">
-<img height=300 width=300 src="references/images/run_play_proportion.png">
+<img height=400 width=400 src="references/images/run_play_proportion.png">
 </p>
 
 We can see here that almost all of the runs in the dataset are by the Running Backs on the offense, contributing to 93% of the total run plays. It could be argued that this should be rounded to 96% as the HB (Half Back) position is a specific type of running back. <br>
