@@ -48,7 +48,7 @@ You can find me on:
     To win you need to score, to score you need to get the ball into the end zone, and to get the ball into the end zone you need to move the ball farther up the field. With a run play being one out of the two options an offence has to try and move closer to the end zone, optimising this aspect of their game could lead to considerable improvements in a teams win percentage. In an [article](https://www.nfl.com/news/running-the-football-still-works-plus-the-amari-cooper-effect-0ap3000000996948) by the renowned NFL analyst, former player and scout, Bucky Brooks states that: <br>
     *“From Weeks 11-13, teams that ranked in the top half of the NFL in terms of run-play percentage posted a combined record of 32-13 (71.1 winning percentage). On the flip side, teams that ranked in the bottom half of the league in this category logged a combined mark of 12-31 (27.9)”* <br>
 
-    In this project I have provided insightful analysis into the aspects of a successful run game and designed a model that will predict the yards gained on the next run play. The implementation of such a model is expected to improve the play calling efficiency of an offensive team and as a result lead to an increased win percentage. 
+In this project I have provided insightful analysis into the aspects of a successful run game and designed a model that will predict the yards gained on the next run play. The implementation of such a model is expected to improve the play calling efficiency of an offensive team and as a result lead to an increased win percentage. 
 
 > For more literature on this see: <br>
 Business Opportunities' - [It’s True: NFL Teams Really Are Franchises](https://www.business-opportunities.biz/2013/10/20/nfl-teams-are-franchises-too/) <br>
@@ -60,7 +60,7 @@ The NFL's - [A Beginner's Guide to American Football](https://www.youtube.com/wa
 <a name="the_data"></a>
 ## The Data
 <p align="center">
-<img height=400 width=400 src="references/images/run_play_proportion.png">
+<img height=450 width=450 src="references/images/run_play_proportion.png">
 </p>
 
 We can see here that almost all of the runs in the dataset are by the Running Backs on the offense, contributing to 93% of the total run plays. It could be argued that this should be rounded to 96% as the HB (Half Back) position is a specific type of running back. <br>
@@ -76,7 +76,7 @@ This to be expected as running with the ball (as the name suggests) is the RB's 
 
 <a name="model"></a>
 ## The Model
--  lead with visualisations not writing
+
 
 
 
@@ -92,10 +92,19 @@ This to be expected as running with the ball (as the name suggests) is the RB's 
 
 <a name="help_resource"></a>
 ## Helpful Resources
-- Here include my instructions to help reproduce the project, including setting up an env and importing the required dependancies from a .txt file for instance
+#### Here include my instructions to help reproduce the project
+- ....
 
-- links to helpful sources of information, keep updating this with the sources I use as I go along
-        e.g, a link to the explanation of the game etc.
+#### links to helpful sources:
+- NFL YouTube - [Beginners Guide to American Football](https://www.youtube.com/watch?v=3t6hM5tRlfA)
+- Business Opportunities - [NFL teams are franchises](https://www.business-opportunities.biz/2013/10/20/nfl-teams-are-franchises-too/)
+- Investopedia - [How the NFL Makes Money](https://www.cnbc.com/2018/10/05/nfl-owners-teams-football.html)
+- CNBC  - [How NFL Teams Make money](https://www.youtube.com/watch?v=-RUtxxMUDd8)
+- Forbes - [Green Bay Packers 2018 Revenue](https://www.forbes.com/sites/robreischel/2018/07/16/green-bay-packers-enjoy-another-year-of-record-revenue/#4347ecae14bb)
+- NFL - [Running the Football still works](https://www.nfl.com/news/running-the-football-still-works-plus-the-amari-cooper-effect-0ap3000000996948)
+- ESPN - [Overprotected Quarter Backs](https://www.espn.com/nfl/story/_/id/10007640/nfl-overprotects-quarterbacks-good-reason)
+- Windy City Gridiron - [End-around, Jet sweep and  Reverse plays](https://www.windycitygridiron.com/2014/11/5/7132567/football-101-difference-between-a-jet-sweep-an-end-around-reverse)
+    
             
             
             
