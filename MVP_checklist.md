@@ -16,10 +16,10 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
 ## Data Understanding
 
 - [x] Describes the data source in...
-  - [ ] Readme
+  - [x] Readme
   - [x] Notebook
   - [ ] Slides
-- [ ] Notebook describes properties of all variables used in project
+- [x] Notebook describes properties of all variables used in project
 
 ## Data Preparation
 
@@ -29,25 +29,25 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
 
 - [x] Notebook includes a baseline model
 - [x] Notebook includes additional models built iteratively from the baseline model
-- [ ] Preferred model is described in...
-  - [ ] Readme
-  - [ ] Notebook
+- [x] Preferred model is described in...
+  - [x] Readme
+  - [x] Notebook
   - [ ] Slides
 
 ## Evaluation
 
-- [ ] Model validation is included in...
-  - [ ] Readme
-  - [ ] Notebook
+- [x] Model validation is included in...
+  - [x] Readme
+  - [x] Notebook
   - [ ] Slides
 
 ## Readme Content
 
 - [x] Readme includes...
-  - [ ] Data science process steps
-  - [ ] Future improvement ideas
+  - [x] Data science process steps
+  - [x] Future improvement ideas
   - [ ] Repository navigation
-  - [ ] Reproduction instructions
+  - [x] Reproduction instructions
   - [ ] Links to presentation and sources
 
 ## Notebook Content
@@ -56,7 +56,7 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
   - [x] Data understanding
   - [x] Data preparation
   - [x] Modeling
-  - [ ] Evaluation
+  - [x] Evaluation
 
 ## Presentation Content
 
