@@ -22,6 +22,7 @@ You can find me on:
 
 
 <br> 
+
 ## Technologies Used
 - Pandas 
 - Matplotlib
