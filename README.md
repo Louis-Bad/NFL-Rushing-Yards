@@ -21,7 +21,7 @@ You can find me on:
 - [My Articles](https://medium.com/@louisbademosi_20360)
 
 
-<br>
+<br> 
 ## Technologies Used
 - Pandas 
 - Matplotlib
