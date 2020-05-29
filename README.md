@@ -132,7 +132,7 @@ As far as the modelling process is concerned: firstly,  I will like to see if th
 <a name="repo_nav"></a>
 ## Repository Navigation
 
-The keys files can be found here: <br>
+The key files can be found here: <br>
 - [Main Notebook](https://github.com/Louis-Bad/NFL-Rushing-Yards/blob/master/main.ipynb)
 - [Presentation -- add link --]() 
 
