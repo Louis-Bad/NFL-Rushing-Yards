@@ -46,7 +46,7 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
 - [x] Readme includes...
   - [x] Data science process steps
   - [x] Future improvement ideas
-  - [ ] Repository navigation
+  - [x] Repository navigation
   - [x] Reproduction instructions
   - [ ] Links to presentation and sources
 
