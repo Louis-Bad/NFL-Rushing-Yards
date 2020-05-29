@@ -84,12 +84,6 @@ This to be expected as running with the ball (as the name suggests) is the RB's 
 
 <a name="explore_analysis"></a>
 ## Exploratory Analysis
-The keys files can be found here: <br>
-- [Main Notebook](https://github.com/Louis-Bad/NFL-Rushing-Yards/blob/master/main.ipynb)
-- [Presentation -- add link --]() 
-
-
-
 
 <p align="center">
 <img height=500 width=1300 src="references/images/bplots_height_yards.png">
@@ -133,7 +127,10 @@ As far as the modelling process is concerned: firstly,  I will like to see if th
 <a name="repo_nav"></a>
 ## Repository Navigation
 
-The main aspects of the project 
+The keys files can be found here: <br>
+- [Main Notebook](https://github.com/Louis-Bad/NFL-Rushing-Yards/blob/master/main.ipynb)
+- [Presentation -- add link --]() 
+
 
 
 <a name="help_resource"></a>
