@@ -21,16 +21,6 @@ You can find me on:
 - [My Articles](https://medium.com/@louisbademosi_20360)
 
 
-<br> 
-
-## Technologies Used
-- Pandas 
-- Matplotlib
-- Seaborn
-- Numpy 
-- SciKit Learn
-
-
 
 
 <br> <br>
@@ -42,7 +32,8 @@ You can find me on:
 4. [The Model](#model)
 5. [Future Improvements](#future_improv)
 6. [Repository Navigation](#repo_nav)
-7. [Helpful Resources](#help_resource)
+7. [Technologies Used](#tech_used)
+8. [Helpful Resources](#help_resource)
 
 
 
@@ -141,6 +132,18 @@ As far as the modelling process is concerned: firstly,  I will like to see if th
 The keys files can be found here: <br>
 - [Main Notebook](https://github.com/Louis-Bad/NFL-Rushing-Yards/blob/master/main.ipynb)
 - [Presentation -- add link --]() 
+
+
+
+
+<a name="tech_used"></a>
+## Technologies Used
+- Pandas 
+- Matplotlib
+- Seaborn
+- Numpy 
+- SciKit Learn
+
 
 
 
