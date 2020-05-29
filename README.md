@@ -86,7 +86,7 @@ This to be expected as running with the ball (as the name suggests) is the RB's 
 ## Exploratory Analysis
 
 <p align="center">
-<img height=600 width=1300 src="references/images/bplots_height_yards.png">
+<img height=500 width=1300 src="references/images/bplots_height_yards.png">
 </p>
 
 Surprisingly the median number of yards ran for by each of the Running Backs in each height category is largely identical; with all of them ranging from 100 to 400 yards in the season.What is also interesting to note, is how the variation in the categories increases with the height of the player. As if to say that most Running Backs will run for around 300 yards regardless of their height, but a few Running Backs will have great seasons rushing for over 2,000 yards. Unless they are under 69 inches, in which case they will have close to no chance of rushing for more than 1,500 yards. <br>
