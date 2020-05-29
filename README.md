@@ -124,7 +124,7 @@ Because of this, a non-linear model such as a decision tree regressor, random fo
 ## Future Improvements
 
 As far as the exploratory analysis is concerned, there is much much more to explore! With the dataset having 48 features, the relationships between these features could give more insight into the trends and patterns in the data. As an example, I would like to use the "Week" feature in the dataset and run some time series analysis to uncover some temporal trends in the data. <br>
-As far as the modelling process is concerned: firstly,  I will like to see if there are any features in the data that do meet the requirments of linear regression so that I can gain a true sense of the models effectiveness. Secondly, I will like to utilise other non-linear models such as a decision tree regressor or an anrtificial neural net.
+As far as the modelling process is concerned: firstly,  I will like to see if there are any features in the data that do meet the requirments of linear regression so that I can gain a true sense of the models effectiveness. Secondly, I will like to utilise other non-linear models such as a decision tree regressor or an artificial neural net.
 
 
 
