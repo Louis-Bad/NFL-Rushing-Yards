@@ -107,7 +107,10 @@ In conclusion, none of iterations of the linear regression model have shown to h
 2. No multicolinearity between the independent variables
 3. Homoscedasticity of the error
 4. Normal distribution of error 
-As the earlier EDA has shown, the relationships between the features used and the ouput of the model are not linear nor are the errors homoscedastic in nature. <br>
+<br>
+
+As the earlier EDA has shown, the relationships between the features used and the ouput of the model are not linear nor are the errors homoscedastic in nature. 
+<br>
 
 Also, in each of the iterations a different regularisation method had been used. Considering that regularisation is a means to increase a model's bias in the hopes of avoiding high variation in the model's out of sample predictive performance; none of the regularisation methods above will improve the model's performance since it's predictive power is so low anyway i.e there are very slim chances that the issue is an over-fitting problem, due to the fact the model doesn't explain the training data at all! Let alone explain it too accurately. <br>
 Because of this, a non-linear model such as a decision tree regressor, random forest model or artificial neural net is likely to have a much better predicting the yards gained on each play.
