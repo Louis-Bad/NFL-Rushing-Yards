@@ -141,6 +141,7 @@ The key files can be found here: <br>
 
 <a name="tech_used"></a>
 ## Technologies Used
+- Python
 - Pandas 
 - Matplotlib
 - Seaborn
