@@ -22,6 +22,16 @@ You can find me on:
 
 
 
+## Technologies Used
+- Pandas 
+- Matplotlib
+- Seaborn
+- Numpy 
+- SciKit Learn
+
+
+
+
 <br> <br>
 ## Table of contents
 
