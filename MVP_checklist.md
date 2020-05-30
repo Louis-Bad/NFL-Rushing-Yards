@@ -60,18 +60,18 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
 
 ## Presentation Content
 
-- [ ] Presentation includes...
-  - [ ] Introduction
+- [x] Presentation includes...
+  - [x] Introduction
   - [ ] Data science process steps
   - [ ] Future improvement ideas
-  - [ ] Contact info
+  - [x] Contact info
 
 ## Presentation Style
 
-- [ ] Presentation...
-  - [ ] Is uncluttered
-  - [ ] Is light on text
-  - [ ] Has no unnecessary jargon
+- [x] Presentation...
+  - [x] Is uncluttered
+  - [x] Is light on text
+  - [x] Has no unnecessary jargon
   - [ ] Has visuals that clearly demonstrate key points
 
 ## Sourcing
