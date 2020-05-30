@@ -10,7 +10,7 @@
 
 This project contains the analysis of the aspects that make a run play successful, and a model that can predict the yards that will be gained on the next run play. All of the data used can be found [here](https://www.kaggle.com/c/nfl-big-data-bowl-2020/overview) <br>
 The ticket sales, corporate sposnors and concessions can contribute to over ***50%*** of a teams annual revenue and a teams fan base is a large driver of these profitable transasctions. A winning team can attract new fans and appease exiting ones; and more fans can create larger profit margins. This project aims to assist NFL teams in their play calling effectiveness and increase their odds of winning. <br>
-[Add a link to the pesentation (online/google docs)]()
+
 
 
 
@@ -134,7 +134,7 @@ As far as the modelling process is concerned: firstly,  I will like to see if th
 
 The key files can be found here: <br>
 - [Main Notebook](https://github.com/Louis-Bad/NFL-Rushing-Yards/blob/master/main.ipynb)
-- [Presentation -- add link --]() 
+- [Presentation]() 
 
 
 
