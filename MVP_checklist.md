@@ -11,14 +11,14 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
 - [x] Clearly explains the real-world problem your project attempts to solve in...
   - [x] Readme
   - [x] Notebook
-  - [ ] Slides
+  - [x] Slides
 
 ## Data Understanding
 
 - [x] Describes the data source in...
   - [x] Readme
   - [x] Notebook
-  - [ ] Slides
+  - [x] Slides
 - [x] Notebook describes properties of all variables used in project
 
 ## Data Preparation
@@ -32,14 +32,14 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
 - [x] Preferred model is described in...
   - [x] Readme
   - [x] Notebook
-  - [ ] Slides
+  - [x] Slides
 
 ## Evaluation
 
 - [x] Model validation is included in...
   - [x] Readme
   - [x] Notebook
-  - [ ] Slides
+  - [x] Slides
 
 ## Readme Content
 
@@ -62,8 +62,8 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
 
 - [x] Presentation includes...
   - [x] Introduction
-  - [ ] Data science process steps
-  - [ ] Future improvement ideas
+  - [x] Data science process steps
+  - [x] Future improvement ideas
   - [x] Contact info
 
 ## Presentation Style
@@ -72,7 +72,7 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
   - [x] Is uncluttered
   - [x] Is light on text
   - [x] Has no unnecessary jargon
-  - [ ] Has visuals that clearly demonstrate key points
+  - [x] Has visuals that clearly demonstrate key points
 
 ## Sourcing
 
