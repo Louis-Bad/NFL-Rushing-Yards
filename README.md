@@ -134,7 +134,7 @@ As far as the modelling process is concerned: firstly,  I will like to see if th
 
 The key files can be found here: <br>
 - [Main Notebook](https://github.com/Louis-Bad/NFL-Rushing-Yards/blob/master/main.ipynb)
-- [Presentation]() 
+- [Presentation](https://github.com/Louis-Bad/NFL-Rushing-Yards/blob/master/reports/Capstone%20Presentation.pdf) 
 
 
 
